@@ -50,4 +50,10 @@ As I traced each track and entered it into Kicad, I drew on the layer mask in bl
 
 Once the design was in KiCad, I entered parts of it in LTSPICE and modelled them to get an idea how the circuitry (especially the LF receiver) behaved.
 
+### Hints for reverse-engineering PCBs with GIMP and KiCad
+
+  * Split the circuit up into functional blocks where possible, and work on them one-by-one.
+  * Add component designators and pin numbers first, and make sure these are accurate. Put them on a layer by themselves so they can be turned on and off.
+  * Overdraw the tracks on the appropriate Layer Mask as they're entered into KiCad.
+  * After finishing a functional block, turn off the layer mask (right-click layer, Disable Layer Mask) and check the tracks against the schematic.
 
