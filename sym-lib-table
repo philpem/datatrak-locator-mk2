@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LocatorMk2")(type "KiCad")(uri "${KIPRJMOD}/LocatorMk2.kicad_sym")(options "")(descr ""))
+)
