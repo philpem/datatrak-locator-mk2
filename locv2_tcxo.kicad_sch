@@ -6,6 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - TCXO")
+    (date "2022-06-29")
+    (rev "A")
   )
 
   (lib_symbols

@@ -6,6 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2")
+    (date "2022-06-29")
+    (rev "A")
   )
 
   (lib_symbols
@@ -2109,9 +2111,9 @@
   )
 
   (no_connect (at 350.52 86.36) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664b))
-  (no_connect (at 350.52 88.9) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664b))
-  (no_connect (at 378.46 86.36) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664b))
-  (no_connect (at 378.46 88.9) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664b))
+  (no_connect (at 350.52 88.9) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664c))
+  (no_connect (at 378.46 86.36) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664d))
+  (no_connect (at 378.46 88.9) (uuid 0fd165b7-8acb-4082-b800-f68d9e47664e))
 
   (bus_entry (at 363.22 58.42) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2131,15 +2133,15 @@
   )
   (bus_entry (at 335.28 78.74) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3b)
+    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3c)
   )
   (bus_entry (at 335.28 76.2) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3b)
+    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3d)
   )
   (bus_entry (at 335.28 81.28) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3b)
+    (uuid 262e3a79-4bae-4ffb-b1a8-dafdaba3ef3e)
   )
   (bus_entry (at 363.22 63.5) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2183,7 +2185,7 @@
   )
   (bus_entry (at 363.22 68.58) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 883be9e5-86f8-471c-a2fc-183760be78bf)
+    (uuid 883be9e5-86f8-471c-a2fc-183760be78c0)
   )
   (bus_entry (at 304.8 60.96) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
@@ -2199,7 +2201,7 @@
   )
   (bus_entry (at 304.8 78.74) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid a8120d78-13a3-4f1e-b74d-e7113a10c532)
+    (uuid a8120d78-13a3-4f1e-b74d-e7113a10c533)
   )
   (bus_entry (at 304.8 81.28) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))

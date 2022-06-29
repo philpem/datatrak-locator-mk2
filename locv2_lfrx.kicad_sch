@@ -6,6 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - LF Nav receiver")
+    (date "2022-06-29")
+    (rev "A")
   )
 
   (lib_symbols
@@ -1956,14 +1958,14 @@
   )
 
   (no_connect (at 195.58 246.38) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d04))
-  (no_connect (at 246.38 248.92) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d04))
-  (no_connect (at 246.38 208.28) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d04))
-  (no_connect (at 246.38 256.54) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d04))
+  (no_connect (at 246.38 248.92) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d05))
+  (no_connect (at 246.38 208.28) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d06))
+  (no_connect (at 246.38 256.54) (uuid 110ea9ba-2cba-47bc-9b24-86121ca92d07))
   (no_connect (at 66.04 142.24) (uuid 18bb75f7-fb54-45c4-b942-a4f28de82bdd))
   (no_connect (at 113.665 66.675) (uuid 35387779-890c-437c-8a52-2914cc679c89))
   (no_connect (at 180.34 142.24) (uuid 672e9e2b-e13d-49fa-a25f-bfa5bd4ef287))
   (no_connect (at 200.66 137.16) (uuid 76dc821f-dbb7-49ad-8278-5f29cdc5444d))
-  (no_connect (at 200.66 147.32) (uuid 76dc821f-dbb7-49ad-8278-5f29cdc5444d))
+  (no_connect (at 200.66 147.32) (uuid 76dc821f-dbb7-49ad-8278-5f29cdc5444e))
 
   (wire (pts (xy 214.63 84.455) (xy 214.63 85.725))
     (stroke (width 0) (type default) (color 0 0 0 0))

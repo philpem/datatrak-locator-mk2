@@ -6,6 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - 68000 CPU and ASIC")
+    (date "2022-06-29")
+    (rev "A")
   )
 
   (lib_symbols
@@ -4864,10 +4866,6 @@
   (wire (pts (xy 111.76 149.86) (xy 128.27 149.86))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid dd9ddda4-cdbf-477e-a220-4c14b51fe397)
-  )
-  (wire (pts (xy 318.77 166.37) (xy 330.2 166.37))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid ddb2b800-ac00-48de-bec7-85342fb9cd34)
   )
   (wire (pts (xy 199.39 63.5) (xy 215.9 63.5))
     (stroke (width 0) (type default) (color 0 0 0 0))

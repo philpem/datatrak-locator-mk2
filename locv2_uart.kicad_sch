@@ -6,6 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - UART and Serial Ports")
+    (date "2022-06-29")
+    (rev "A")
   )
 
   (lib_symbols
@@ -1190,11 +1192,11 @@
   )
 
   (no_connect (at 370.205 72.39) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
-  (no_connect (at 370.205 69.85) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
-  (no_connect (at 370.205 82.55) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
-  (no_connect (at 370.205 180.34) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
-  (no_connect (at 370.205 167.64) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
-  (no_connect (at 370.205 170.18) (uuid bd56e979-e3b4-4923-b4ec-5b2588184838))
+  (no_connect (at 370.205 69.85) (uuid bd56e979-e3b4-4923-b4ec-5b2588184839))
+  (no_connect (at 370.205 82.55) (uuid bd56e979-e3b4-4923-b4ec-5b258818483a))
+  (no_connect (at 370.205 180.34) (uuid bd56e979-e3b4-4923-b4ec-5b258818483b))
+  (no_connect (at 370.205 167.64) (uuid bd56e979-e3b4-4923-b4ec-5b258818483c))
+  (no_connect (at 370.205 170.18) (uuid bd56e979-e3b4-4923-b4ec-5b258818483d))
 
   (bus_entry (at 59.055 128.27) (size 2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
