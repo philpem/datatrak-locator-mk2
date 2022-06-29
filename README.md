@@ -2,7 +2,7 @@
 
 Author: Phil Pemberton <philpem@philpem.me.uk>
 
-This is part of [https://www.philpem.me.uk/datatrak/start](my work reverse-engineering the Datatrak LF navigation system) -- specifically, it's a reverse-engineered schematic for the Locator Mk.2 navigation receiver.
+This is part of [my work reverse-engineering the Datatrak LF navigation system](https://www.philpem.me.uk/datatrak/start) -- specifically, it's a reverse-engineered schematic for the Locator Mk.2 navigation receiver.
 
 I largely undertook this multi-year project (I started the PCB reverse-engineering in 2019 and finished it in mid-2022) as an experiment. My main objective was to make some use out of the half-dozen Datatrak receivers in my spares drawer, but I also wanted to improve my processes for de-layering and reverse-engineering complex multi-layer PCBs.
 
