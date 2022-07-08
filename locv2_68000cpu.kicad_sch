@@ -6,8 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - 68000 CPU and ASIC")
-    (date "2022-06-29")
-    (rev "A")
+    (date "2022-07-08")
+    (rev "B")
   )
 
   (lib_symbols
@@ -1332,7 +1332,7 @@
           (number "5" (effects (font (size 1.27 1.27))))
         )
         (pin output line (at 20.32 -27.94 180) (length 2.54)
-          (name "RF_LO_A_100KHZ" (effects (font (size 1.27 1.27))))
+          (name "RF_LO_VAR" (effects (font (size 1.27 1.27))))
           (number "50" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 20.32 -25.4 180) (length 2.54)
@@ -1368,7 +1368,7 @@
           (number "58" (effects (font (size 1.27 1.27))))
         )
         (pin output line (at 20.32 -5.08 180) (length 2.54)
-          (name "RF_LO_B_SWITCHED" (effects (font (size 1.27 1.27))))
+          (name "RF_LO_FIXED" (effects (font (size 1.27 1.27))))
           (number "59" (effects (font (size 1.27 1.27))))
         )
         (pin input line (at -20.32 35.56 0) (length 2.54)
@@ -6133,7 +6133,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2b36afb1-d1ca-412a-9fce-4d2ef0112ade)
   )
-  (hierarchical_label "RF_LO_A" (shape output) (at 215.9 124.46 0)
+  (hierarchical_label "RF_LO_VAR" (shape output) (at 215.9 124.46 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2dfa9d1f-64c0-4a44-a098-a51f77e117b5)
   )
@@ -6189,7 +6189,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid beba6226-487c-4369-9bd0-2c5d87fca347)
   )
-  (hierarchical_label "RF_LO_B" (shape output) (at 215.9 101.6 0)
+  (hierarchical_label "RF_LO_FIXED" (shape output) (at 215.9 101.6 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid ca9a2b8f-5d60-4f2d-accd-be8d0ca74b2e)
   )

@@ -6,8 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - Power Input and PSU")
-    (date "2022-06-29")
-    (rev "A")
+    (date "2022-07-08")
+    (rev "B")
   )
 
   (lib_symbols

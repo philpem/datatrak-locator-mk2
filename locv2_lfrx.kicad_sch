@@ -6,8 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2 - LF Nav receiver")
-    (date "2022-06-29")
-    (rev "A")
+    (date "2022-07-08")
+    (rev "B")
   )
 
   (lib_symbols
@@ -3526,7 +3526,7 @@
     (uuid bfa00531-8341-45ff-ae63-2f0c6e6e83d0)
   )
   (text "Switchable Intermediate LO\n20 MHz ÷ 1512 = 13.2275 kHz\n20 MHz ÷ 756  = 26.4450 kHz"
-    (at 25.4 76.835 0)
+    (at 25.4 43.815 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid deb64c7b-e73e-45d8-941a-dfe4c30346d1)
   )
@@ -3534,7 +3534,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e78f17bb-ae69-4f47-8891-159738e1b906)
   )
-  (text "Fixed 100kHz Intermediate LO" (at 25.4 43.18 0)
+  (text "Fixed 100kHz Intermediate LO" (at 25.4 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid ef372203-2b2b-48cb-96ae-561f5d8f8ca7)
   )
@@ -3612,7 +3612,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 292c4ec3-be3f-4e18-bf45-f0982447dbd2)
   )
-  (hierarchical_label "LF_LO_A" (shape input) (at 50.8 45.085 180)
+  (hierarchical_label "LF_LO_VAR" (shape input) (at 50.8 45.085 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 6725be2b-7abe-4cc8-84a3-522d67daaa4b)
   )
@@ -3620,7 +3620,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 97337edf-82df-4e75-9744-e2fad9b80580)
   )
-  (hierarchical_label "LF_LO_B" (shape input) (at 50.8 78.74 180)
+  (hierarchical_label "LF_LO_FIXED" (shape input) (at 50.8 78.74 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid accfa769-4241-44fc-a1ce-55c2e8d75706)
   )

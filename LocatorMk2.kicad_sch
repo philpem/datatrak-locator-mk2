@@ -6,8 +6,8 @@
 
   (title_block
     (title "Datatrak Locator Mk.2")
-    (date "2022-06-29")
-    (rev "A")
+    (date "2022-07-08")
+    (rev "B")
   )
 
   (lib_symbols
@@ -5116,7 +5116,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid f7a60d18-c54a-4258-90a4-74b74514f949)
     )
-    (pin "RF_LO_A" output (at 60.96 73.66 180)
+    (pin "RF_LO_VAR" output (at 60.96 73.66 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 53a5d7a8-5737-4212-8d17-0a12abf7dab8)
     )
@@ -5124,7 +5124,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid 97a4f760-da92-4fe7-ae82-e0d621338092)
     )
-    (pin "RF_LO_B" output (at 60.96 76.2 180)
+    (pin "RF_LO_FIXED" output (at 60.96 76.2 180)
       (effects (font (size 1.27 1.27)) (justify left))
       (uuid ce6bc973-bbd1-41a9-bbae-3092aa26a5e6)
     )
@@ -5308,11 +5308,11 @@
     (property "Sheet file" "locv2_lfrx.kicad_sch" (id 1) (at 19.685 89.4846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
-    (pin "LF_LO_A" input (at 45.085 73.66 0)
+    (pin "LF_LO_VAR" input (at 45.085 73.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid 93defb09-1a98-4c69-a403-59c421db72a4)
     )
-    (pin "LF_LO_B" input (at 45.085 76.2 0)
+    (pin "LF_LO_FIXED" input (at 45.085 76.2 0)
       (effects (font (size 1.27 1.27)) (justify right))
       (uuid a1712410-ca52-4d26-b0ca-e15c695053d0)
     )
